@@ -12,13 +12,18 @@ Calendario das Aulas do curso de Java
 * 30/Dez - 34 - Orientação a Objetos: Variáveis e metodos estaticos (modificador static)
 
 # Janeiro 2016
-* 04/Jan - 
-* 06/Jan -
-* 11/Jan - 
-* 13/Jan -
-* 18/Jan - 
-* 20/Jan - 
-* 25/Jan - 
-* 27/Jan - 
+* 04/Jan - Correção Exercícios Aula 34: Variáveis e metodos estaticos (modificador static) - Parte 1 (Contador)
+* 06/Jan - Correção Exercícios Aula 34: Variáveis e metodos estaticos (modificador static) - Parte 2 (Calculadora)
+* 08/Jan - Correção Exercícios Aula 34: Variáveis e metodos estaticos (modificador static) - Parte 3 (Fatorial)
+* 11/Jan - 35 - Recursividade
+* 13/Jan - Correção Exercícios Aula 35 - Parte 1 (Fibonacci Recursivo)
+* 15/Jan - Correção Exercícios Aula 35 - Parte 2 (Somatório Recursivo)
+* 18/Jan - 36 - Orientação a Objetos: Relacionamento entre Classes (tem um e tem muitos)
+* 20/Jan - Correção Exercícios Aula 36 - Relacionamento entre Classes (tem um e tem muitos) - Parte 1 (Agenda) 
+* 22/Jan - Correção Exercícios Aula 36 - Relacionamento entre Classes (tem um e tem muitos) - Parte 1 (Curso + Alunos) 
+* 25/Jan - 37 - Herança
+* 27/Jan - 38 - Herança: Palavra chave super
+* 29/Jan - 39 - Herança: modificadores de acesso + protected
 
 # Fevereiro 2016
+* a definir
