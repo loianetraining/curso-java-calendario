@@ -21,9 +21,9 @@ Calendario das Aulas do curso de Java
 * 18/Jan - 36 - Orientação a Objetos: Relacionamento entre Classes (tem um e tem muitos)
 * 20/Jan - Correção Exercícios Aula 36 - Relacionamento entre Classes (tem um e tem muitos) - Parte 1 (Agenda) 
 * 22/Jan - Correção Exercícios Aula 36 - Relacionamento entre Classes (tem um e tem muitos) - Parte 1 (Curso + Alunos) 
-* 25/Jan - 37 - Herança
-* 27/Jan - 38 - Herança: Palavra chave super
-* 29/Jan - 39 - Herança: modificadores de acesso + protected
+* 25/Jan - 37 - Orientação a Objetos: Herança
+* 27/Jan - 38 - Orientação a Objetos: Herança: Palavra chave super
+* 29/Jan - 39 - Orientação a Objetos: Herança: modificadores de acesso + protected
 
-# Fevereiro 2016
+# Fevereiro 2016 - Módulo de Orientação Objetos Completo
 * a definir
