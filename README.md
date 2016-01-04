@@ -16,4 +16,12 @@ Calendario das Aulas do curso de Java
 * 29/Jan - 39 - Orientação a Objetos: Herança: modificadores de acesso + protected
 
 # Fevereiro 2016 - Módulo de Orientação Objetos Completo
-* a definir
+* \#40: Herança e Polimorfismo: sobrecarga de métodos
+* \#41: Herança: classes abstratas
+* \#42: Palavra chave final
+* \#43: Classe Object
+* Correção Exercícios de Laboratório Aula 43 (3 exercícios)
+* \#44: Interfaces
+* \#45: Interfaces e Polimorfismo
+* \#46: Interface e herança
+* Correção Exercícios de Laboratório Aula 46 (3 exercícios)
