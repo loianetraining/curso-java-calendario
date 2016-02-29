@@ -1,11 +1,6 @@
 # curso-java-calendario
 Calendario das Aulas do curso de Java
 
-# Fevereiro 2016 - Módulo de Orientação Objetos Completo
-* 24/Fev - Correção Exercícios Aula 46 - Parte 1 (Figura Geométrica)
-* 26/Fev - Correção Exercícios Aula 46 - Parte 2 (Interfaces Dimensão e Volume)
-* 29/Fev - Correção Exercícios Aula 46 - Parte 3 (Figuras Geométricas e Polimorfismo)
-
 # Março 2016 - Módulo de Tratamento de Erros Completo - Fim Módulo I
 * 02/mar - 47: Exceptions: try, catch
 * 04/mar - 48: Exceptions: multiplos catch
